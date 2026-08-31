@@ -7,12 +7,12 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<TUFF INDIAN HACKERS>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
+|   Team Leader   |      SOHAN GHOSH              CB.EN.U4CCE26153     |        M                |    ECE             |                                 |  
+|    Member 2     |         ANRIRUDH RS                 |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
 |    Member 5     |                         |                        |                 |                                 |  
